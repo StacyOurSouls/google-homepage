@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="google.css">
+</head>
+
+<body>
+	<img id = "logo" src = "https://www.google.com/images/srpr/logo11w.png" />
+	<form action=# method = "GET"> 
+		<input class = "field" type = "text" name = "search"><br>
+		<div class = "buttons"> 
+			<input type="submit" value="Google Search">
+			<input type="submit" value="I'm Feeling Lucky"> 
+		</div>
+	</form>
+</body>
+</html>
+
+
+
