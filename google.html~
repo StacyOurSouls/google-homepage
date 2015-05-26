@@ -5,14 +5,39 @@
 </head>
 
 <body>
+	<div class = "header">
+		<div class = "right_links_head">
+		<a href = "https://plus.google.com/?gpsrc=ogpy0&tab=wX"> +You </a>
+		<a href = "https://mail.google.com/mail/?tab=wm"> Gmail </a>
+		<a href = "https://www.google.com/imghp?hl=en&tab=wi&ei=fZNjVbXSO4WoyQSQtYCAAg&ved=0CBQQqi4oAg"> Images </a>
+		<a href = "https://www.google.com/imghp?hl=en&tab=wi&ei=fZNjVbXSO4WoyQSQtYCAAg&ved=0CBQQqi4oAg"> 
+			<img id = "square_icon" src = "https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fflatfrogblog.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fapp-launcher-150x150.png&container=blogger&gadget=a&rewriteMime=image%2F*"/>
+		</a>
+		<a href = "https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/%3Fgws_rd%3Dssl"> <div id = "sign-in"></div></a>
+		</div>
+	</div>
+	<div id = "main">
 	<img id = "logo" src = "https://www.google.com/images/srpr/logo11w.png" />
-	<form action=# method = "GET"> 
+	<form action="https://www.google.com/search?q=yo+mama&biw=1188&bih=638&source=lnms&tbm=isch&sa=X&ei=NfFhVde3CtW0yAT2rYL4Ag&ved=0CAcQ_AUoAg" method = "GET"> 
 		<input class = "field" type = "text" name = "search"><br>
 		<div class = "buttons"> 
 			<input type="submit" value="Google Search">
 			<input type="submit" value="I'm Feeling Lucky"> 
 		</div>
 	</form>
+	</div>
+	<div class = "footer">
+		<div class = "left_links_foot">
+			<a href = "https://www.google.com/intl/en/ads/?fg=1"> Advertising </a>
+			<a href = "https://www.google.com/services/?fg=1"> Business </a>
+			<a href = "https://www.google.com/intl/en/about.html?fg=1"> About </a>
+		</div>
+		<div class = "right_links">
+			<a href = "https://www.google.com/intl/en/policies/privacy/?fg=1"> Privacy </a>
+			<a href = "https://www.google.com/intl/en/policies/terms/?fg=1"> Terms </a>
+			<a href = "https://www.google.com/intl/en/ads/?fg=1"> Settings </a>
+		</div>
+	</div>
 </body>
 </html>
 
