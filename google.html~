@@ -13,7 +13,7 @@
 		<a href = "https://www.google.com/imghp?hl=en&tab=wi&ei=fZNjVbXSO4WoyQSQtYCAAg&ved=0CBQQqi4oAg"> 
 			<img id = "square_icon" src = "https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fflatfrogblog.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fapp-launcher-150x150.png&container=blogger&gadget=a&rewriteMime=image%2F*"/>
 		</a>
-		<a href = "https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/%3Fgws_rd%3Dssl"> <div id = "sign-in"></div></a>
+		<a href = "https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/%3Fgws_rd%3Dssl"> <div id = "signin">Sign in</div></a>
 		</div>
 	</div>
 	<div id = "main">

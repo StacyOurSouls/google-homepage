@@ -39,13 +39,15 @@ input[type = "submit"] {
 }
 
 .header, .footer{
-  position: absolute;
-  background: #f2f2f2;
-  border-top: 1px solid #e4e4e4;
-  line-height: 40px;
-  height: 35px;
-  width: 100%;
-  padding: 0 0 0 0;
+	position: absolute;
+	background: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	line-height: 40px;
+	height: 35px;
+	width: 100%;
+	padding: 0 0 0 0;
+  	vertical-align: middle;
+
 }
 .footer{
   bottom: 0;
@@ -80,19 +82,23 @@ a {
 	margin-left: 20px;
 	margin-top: 5px;
 }
-#signin {
-	position: relative;
-	float:right;
-	height: 30px;
-	width: 60px;
-	background: #4387fd;
-	border-radius: 3px;
-	text-color: white;
-	font-family: arial,sans-serif;
-	font-style: bold;
-	margin-right:200px;
-	margin-left: 0px;
-}
+/*#signin {*/
+/*	position: relative;*/
+/*	float:right;*/
+/*	height: 90%;*/
+/*	width: 60px;*/
+/*	background: #4387fd;*/
+/*	border-radius: 3px;*/
+/*	color: white;*/
+/*	font-family: arial,sans-serif;*/
+/*	font-style: bold;*/
+/*	margin-right:200px;*/
+/*	margin-left: 0px;*/
+/*	padding-left: 0px;*/
+/*	text-align: center;*/
+/*	vertical-align: middle;*/
+/*	line-height: 30px;*/
+/*}*/
 
 
 
